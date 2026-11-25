@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./888.png" 
+       alt="Snake Game"
+       width="100%">
+</p>
 
 # Snake Game
 
